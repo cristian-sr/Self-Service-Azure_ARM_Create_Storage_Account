@@ -1,5 +1,7 @@
-# Test
+Azure ARM Template which will deploy an Azure Storage Account
 
+Author: Kevin Tuffner
+Date: 03/01/2018
 
 
 
